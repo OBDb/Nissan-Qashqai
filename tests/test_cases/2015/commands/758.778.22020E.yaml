@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     NISSAN_TPW_FR: 29.25
   response: '7780462020E75'
+- expected_values:
+    NISSAN_TPW_FR: 30
+  response: '7780462020E78'

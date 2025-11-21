@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     NISSAN_TPW_RR: 26
   response: 7780462020F68
+- expected_values:
+    NISSAN_TPW_RR: 26.25
+  response: 7780462020F69
+- expected_values:
+    NISSAN_TPW_RR: 27
+  response: 7780462020F6C
