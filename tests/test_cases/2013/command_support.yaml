@@ -31,9 +31,6 @@ supported_commands_by_ecu:
   - 0147:TP_B
   - 0149:APP_D
   - 014A:APP_E
-  - 014C:TAC_PCT
-  - 014D:MIL_TIME
-  - 014E:CLR_TIME
 unsupported_commands_by_ecu:
   "797":
   - 797.79A.221261|fc=1:NISSAN_AC_PWR_EST
