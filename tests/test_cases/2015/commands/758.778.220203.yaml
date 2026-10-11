@@ -1,17 +1,17 @@
 command_id: 758.778.220203
 test_cases:
 - expected_values:
-    NISSAN_TP_RR: 0
+    QASHQAI_TP_RR_V2: null
   response: '7780462020300'
 - expected_values:
-    NISSAN_TP_RR: 30.25
+    QASHQAI_TP_RR_V2: 30.25
   response: '7780462020379'
 - expected_values:
-    NISSAN_TP_RR: 30.75
+    QASHQAI_TP_RR_V2: 30.75
   response: 778046202037B
 - expected_values:
-    NISSAN_TP_RR: 31.5
+    QASHQAI_TP_RR_V2: 31.5
   response: 778046202037E
 - expected_values:
-    NISSAN_TP_RR: 32.75
+    QASHQAI_TP_RR_V2: 32.75
   response: '7780462020383'
