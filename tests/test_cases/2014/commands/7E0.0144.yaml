@@ -4,8 +4,8 @@ test_cases:
     EQ_RAT: 0
   response: '7E80441440000'
 - expected_values:
-    EQ_RAT: 0.99211
+    EQ_RAT: 0.9921
   response: 7E80441447EFD
 - expected_values:
-    EQ_RAT: 1.22982
+    EQ_RAT: 1.2298
   response: 7E80441449D6A

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22111F|din=C0
+test_cases:
+- expected_values:
+    QASHQAI_VARIABLE_VLV_TIM_OIL_T: 20
+  response: 7E80462111F46
+- expected_values:
+    QASHQAI_VARIABLE_VLV_TIM_OIL_T: 97
+  response: 7E80462111F93
